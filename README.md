@@ -9,7 +9,7 @@ Reference:
 
 Collect the randomly generated fruits in the game! <br>
 The tail of the snake extends as each fruit is collected. <br>
-Players are allowed to touch the borders of the board.
+Players are allowed to touch the borders of the board. <br>
 The game ends once the head of the snake touches any part of its body!
 
 Use the w, a, s and d keys to move the snake. <br>
